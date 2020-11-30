@@ -1,2 +1,2 @@
 # MiniBlog.Core.MVCTECH
-Fork of miniblog.core for my website
+Pretty customised fork of miniblog.core for my website
